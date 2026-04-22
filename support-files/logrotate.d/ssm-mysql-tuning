@@ -1,4 +1,0 @@
-/var/log/ssm-mysql-tuning.log {
-    rotate 30
-    daily
-}
